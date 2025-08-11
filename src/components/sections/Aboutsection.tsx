@@ -4,7 +4,7 @@ import { shortinfo, skills } from "@/data/About-data";
 
 const AboutSection: React.FC = () => {
   return (
-    <section className="py-30 h-screen bg-gray-950" id="about">
+    <section className="py-30 bg-gray-950" id="about">
       <div className="container mx-auto px-4 relative z-10">
         {/* Simple Header */}
         <div className="text-center mb-16">
